@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040343
+# Name:Swetha A
+# Date:24/02/2025
 
 
 # AIM:
@@ -38,10 +38,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-
-
-
+![Screenshot 2025-05-19 133102](https://github.com/user-attachments/assets/8fd03e86-7d86-490b-94b2-58e9fe5bd1eb)
 
 # CLASS DIAGRAM
 
@@ -56,6 +53,8 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+
+![Screenshot 2025-05-19 135306](https://github.com/user-attachments/assets/359c9d5f-e311-4371-af04-2b61df96facb)
 
 
 
@@ -95,6 +94,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+![image](https://github.com/user-attachments/assets/78eb5adc-d7da-4a7d-99c5-70557ac8931c)
 
 
 
@@ -117,6 +117,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+![image](https://github.com/user-attachments/assets/b93e9377-e5bd-499a-a9a8-e8e14c81c725)
 
 
 
